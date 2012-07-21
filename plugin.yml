@@ -1,0 +1,14 @@
+# http://wiki.bukkit.org/Plugin_YAML
+name: Corpses
+version: 0.3
+description: Allows corpses to be spawned.
+
+author: Skiouros
+#authors:
+#website:
+
+main: com.github.skiouros.Corpses.Corpses
+database: false
+
+# commands:
+#permissions:

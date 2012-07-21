@@ -1,0 +1,3 @@
+decay: true
+decayTime: 1
+updateInterval: 100
